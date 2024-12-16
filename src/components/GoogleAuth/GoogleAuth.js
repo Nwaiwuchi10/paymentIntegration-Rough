@@ -22,7 +22,6 @@ const GoogleAuth = () => {
             console.log("Login Failed");
           }}
         />
-        ;
       </GoogleOAuthProvider>
     </div>
   );
